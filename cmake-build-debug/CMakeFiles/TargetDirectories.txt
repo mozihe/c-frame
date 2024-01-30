@@ -1,0 +1,6 @@
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/CMakeFiles/example.dir
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/getConfig/CMakeFiles/getConfig.dir
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/getConfig/CMakeFiles/edit_cache.dir
+/home/zhujunheng/简单的框架配置文件版/cmake-build-debug/getConfig/CMakeFiles/rebuild_cache.dir
